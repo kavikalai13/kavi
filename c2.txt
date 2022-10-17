@@ -1,0 +1,24 @@
+ls
+pwd
+cp
+cd
+head
+mv
+rm
+rmdir
+touch
+cat
+tac
+tail
+du
+mkdir
+locate
+find
+grep
+df
+diff
+man
+chmod
+chown
+sudo
+zip unzip
